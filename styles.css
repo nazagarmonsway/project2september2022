@@ -1,0 +1,17 @@
+h1 {
+  color: blue;
+  text-align: center;
+  text-transform: capitalize;
+}
+.text {
+  color: blueviolet;
+  background-color: azure;
+}
+.dummy {
+  color: brown;
+  font-size: large;
+  text-align: justify;
+}
+#extra {
+  color: blueviolet;
+}
