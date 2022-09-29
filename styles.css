@@ -1,0 +1,14 @@
+h1 {
+  color: pink;
+  background-color: blueviolet;
+  text-align: center;
+}
+h3 {
+  color: whitesmoke;
+  background-color: black;
+}
+p {
+  color: blue;
+  text-align: justify;
+  font-size: larger;
+}
